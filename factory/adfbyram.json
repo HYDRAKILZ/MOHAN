@@ -1,0 +1,9 @@
+{
+	"name": "adfbyram",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7e663861-dc76-4795-bb20-f95e2928bdc8",
+		"tenantId": "18c3b4f7-e526-4f98-939a-19118361cac0"
+	}
+}
